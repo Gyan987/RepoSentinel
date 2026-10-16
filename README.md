@@ -1,4 +1,4 @@
-# RepoSentinel
+# RepoSentinel 
 
 **A zero-key repository health report with evidence you can inspect.**
 
